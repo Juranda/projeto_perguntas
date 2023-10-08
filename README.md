@@ -1,16 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Meu primeiro projeto flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+É um app simples de perguntas que fiz atravéz no curso de flutter que estou fazendo.
+Aproveitei e adicionei algumas coisas diferentes do projeto original, como as cores por pergunta e as imagens.
